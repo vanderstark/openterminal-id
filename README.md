@@ -110,15 +110,15 @@ No paid API, no keys, and no single point of failure — every endpoint has a fa
 
 <br/>
 
-## 🚀 Quick start
+## 📦 Quick Start (Singkat)
 
 ```bash
-git clone https://github.com/ErTasselli/openterminal.git
+git clone https://github.com/vanderstark/openterminal-id.git
 cd openterminal
 npm install
 npm run dev
+# Buka http://localhost:3000
 ```
-
 - Web UI → **http://localhost:3000**
 - API health → **http://localhost:4000/api/status**
 
